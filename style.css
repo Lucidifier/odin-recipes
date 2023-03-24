@@ -51,6 +51,12 @@
     font-size: 28px;
 }
 
+.ingredients1 h2 {
+    color: red;
+    border: 1px dotted red;
+}
+
+
 .steps1 {
     float: right;
     background-color: lightcoral;
