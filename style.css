@@ -1,0 +1,61 @@
+.mainh1 {
+    background-color: yellow;
+    font-size: 60px;
+    text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+.links li {
+    font-size: 28px;
+    text-align: left;
+    color: red;
+    margin: 20px;
+}
+
+.links a {
+    color: orange;
+    font-family: Monaco, monospace;
+    margin: 20px;
+    padding: 20px;
+}
+
+#special1 {
+    border: 2px solid red;
+}
+
+.subh1 {
+    color: red;
+    font-size: 48px;
+    text-align: center;
+}
+
+.image1 {
+    float: left;
+    border: 2px solid red;
+    margin: 10px;
+}
+
+.subh2 {
+    font-family: Helvetica, sans-serif;
+    margin: 10px;
+    background-color: lightsalmon;
+}
+
+.ingredients1 {
+    background-color: lightyellow;
+    margin: 20px;
+    padding: 20px;
+}
+
+.ingredients1 h3 {
+    font-size: 28px;
+}
+
+.steps1 {
+    float: right;
+    background-color: lightcoral;
+}
+
+.steps1 h3 {
+    font-size: 28px;
+}
